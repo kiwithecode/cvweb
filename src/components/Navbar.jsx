@@ -6,6 +6,8 @@ import { navLinks } from '../constants';
 import { logo, menu, close } from "../assets";
 const Navbar = () => {
   const [active, setActive] = useState("");
+  const [toggle, setToggle] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   return (
     <nav
     className={`${
@@ -28,32 +30,27 @@ const Navbar = () => {
           </p>
         
         </Link>
-        <ul className='list-none hidden sm: flex flex-row gap-10'>
-          {navLinks.map((link)=>(
-            <li key ={link.id}
-              className={`${active === link.title
-              ?"text-white"
-              : "text-secondary"
-              } hover: text-white text-[18px] 
-              font-mediun cursor-poiter`}
-           
-              onClick={() => setActive(link.title)}
-           >
-              
-              <a href={`#${link.id}`}>{nav.title}
-
-              </a>
+        <ul className='list-none hidden sm:flex flex-row gap-10'>
+          {navLinks.map((nav) => (
+            <li
+              key={nav.id}
+              className={`${
+                active === nav.title ? "text-white" : "text-secondary"
+              } hover:text-white text-[18px] font-medium cursor-pointer`}
+              onClick={() => setActive(nav.title)}
+            >
+              <a href={`#${nav.id}`}>{nav.title}</a>
             </li>
           ))}
-
-         
         </ul>
         <div className='sm:hidden flex flex-1
         justify-end items-center'>
           <img src={menu} 
           alt="menu" 
           className='w-[28px] her-[28px]
-          object-contain cursor-pointer'/>
+          object-contain cursor-pointer'
+          onClick={() => setToggle(!toggle)}
+          />
 
         </div>
 
