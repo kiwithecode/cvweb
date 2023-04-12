@@ -1,0 +1,11 @@
+Model Information:
+* title:	MHD simulation of a star with a hot Jupiter
+* source:	https://sketchfab.com/3d-models/mhd-simulation-of-a-star-with-a-hot-jupiter-999e19c132414b0d820656b7949d6f13
+* author:	Ignazio Pillitteri (https://sketchfab.com/gnaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MHD simulation of a star with a hot Jupiter" (https://sketchfab.com/3d-models/mhd-simulation-of-a-star-with-a-hot-jupiter-999e19c132414b0d820656b7949d6f13) by Ignazio Pillitteri (https://sketchfab.com/gnaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

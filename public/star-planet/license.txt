@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star-Planet interaction, a short animation
+* source:	https://sketchfab.com/3d-models/star-planet-interaction-a-short-animation-b8f22e711a6c4f79b79fe4732c705c8e
+* author:	Ignazio Pillitteri (https://sketchfab.com/gnaz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star-Planet interaction, a short animation" (https://sketchfab.com/3d-models/star-planet-interaction-a-short-animation-b8f22e711a6c4f79b79fe4732c705c8e) by Ignazio Pillitteri (https://sketchfab.com/gnaz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
