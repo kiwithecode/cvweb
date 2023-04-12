@@ -36,15 +36,15 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "Acerca de",
   },
   {
     id: "work",
-    title: "Work",
+    title: "Trabajo",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Contacto",
   },
 ];
 
@@ -155,43 +155,38 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Developer Fornted",
+    company_name: "Freelans",
+    icon: web,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Mayo 2020 - julio 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Desarrollo y mantenimiento de aplicaciones web utilizando React.js, Angular js y otras tecnologías relacionadas.",
+      "Colaborar con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores para crear productos de alta calidad",
+      "Implementar un diseño receptivo y garantizar la compatibilidad entre navegadores.",
+      "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores.",
     ],
   },
   
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Ux/Ui Diseñador",
+    company_name: "PROWESSEC",
+    icon: web,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Septiembre 2021 - Enero 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+     "Creaba diseños y prototipos para aplicaciones móviles y web en Figma, y brindaba soporte y mantenimiento para asegurar que estuvieran siempre en óptimas condiciones."
     ],
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Freelans",
+    icon: web,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Junio 2022 - Febrero 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Como desarrollador de software, mi experiencia incluye el desarrollo y mantenimiento de aplicaciones web utilizando React.js y otras tecnologías relacionadas. Además, colaboro con equipos multifuncionales, como diseñadores, gerentes de producto y otros desarrolladores para crear productos de alta calidad. También implemento diseños receptivos y garantizo la compatibilidad entre navegadores.",
+      " QA automático y testing, para garantizar que las aplicaciones que desarrollamos cumplan con los más altos estándares de calidad. Participaré en revisiones de código y proporcionaré comentarios constructivos a otros desarrolladores, para asegurarnos de que todas las partes interesadas estén satisfechas con el resultado final.",
     ],
   },
 ];
@@ -243,7 +238,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kiwithecode",
   },
   {
     name: "Job IT",
@@ -264,7 +259,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/kiwithecode",
   },
   {
     name: "Trip Guide",
