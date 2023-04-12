@@ -20,6 +20,14 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import angularjs from "./tech/angularjs.png";
+import vitejs from "./tech/vitejs.png";
+import blender from "./tech/blender.png";
+import dart from "./tech/dart.png";
+import go from "./tech/go.png";
+import laravel from "./tech/laravel.png";
+import php from "./tech/php.png";
+import vuejs from "./tech/vuejs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -52,6 +60,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  angularjs,
   meta,
   shopify,
   starbucks,
@@ -59,4 +68,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  vitejs,
+  blender,
+  dart,
+  go,
+  laravel,
+  php,
+  vuejs,
 };
