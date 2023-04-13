@@ -110,6 +110,10 @@ const technologies = [
     name: "Redux Toolkit",
     icon: redux,
   },
+    {
+    name: "Vue JS",
+    icon: vuejs,
+  },
   {
     name: "Php",
     icon: php,
@@ -121,12 +125,7 @@ const technologies = [
   {
     name: "Angular JS",
     icon: angularjs,
-  },
-  {
-    name: "Vue JS",
-    icon: vuejs,
-  },
-  
+  },  
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -139,8 +138,6 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
- 
-  
   {
     name: "Three JS",
     icon: threejs,
