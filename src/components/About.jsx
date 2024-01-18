@@ -46,9 +46,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Soy un desarrollador de software con experiencia en TypeScript y JavaScript, así como en marcos como React, Node.js, Three.js, AngularJS y ViteJS. Aprendo rápidamente y colaboro estrechamente con los clientes para crear soluciones eficientes, escalables y fáciles de usar que resuelvan problemas del mundo real. Si está buscando alguien que pueda dar vida a sus ideas y desarrollar soluciones innovadoras, ¡no dude en ponerse en contacto conmigo!
+       Soy un apasionado desarrollador de software especializado en TypeScript y JavaScript, con una sólida experiencia en frameworks de vanguardia como React.js, Node.js, Three.js, Angular y ViteJS. Mi enfoque se centra en el desarrollo de soluciones innovadoras y escalables, siempre con la mira puesta en la eficiencia y la facilidad de uso.<br/> Mi habilidad para aprender rápidamente y mi dedicación a trabajar en estrecha colaboración con los clientes me permite transformar desafíos complejos en aplicaciones impactantes y funcionales.
       </motion.p>
-
+      <motion.p
+        variants={fadeIn("", "", 0.1, 1)}
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+      >
+      Mi compromiso no solo radica en la programación, sino también en comprender y resolver problemas del mundo real a través de la tecnología. Estoy constantemente buscando superar los límites de lo posible, aportando creatividad y perspectiva fresca a cada proyecto. Si buscas un profesional que pueda convertir tus ideas en realidades tecnológicas innovadoras y efectivas, estaré encantado de colaborar contigo y llevar tus proyectos al siguiente nivel. ¡Contacta conmigo para explorar cómo podemos dar forma al futuro juntos!
+      </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
