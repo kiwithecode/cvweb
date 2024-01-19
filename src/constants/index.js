@@ -164,7 +164,7 @@ const technologies = [
 const experiences = [
   {
     title: "Developer Front-end",
-    company_name: "Freelans",
+    company_name: "Freelance",
     icon: web,
     iconBg: "#383E56",
     date: "Mayo 2020 - julio 2021",
@@ -199,7 +199,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Freelans",
+    company_name: "Freelance",
     icon: web,
     iconBg: "#E6DEDD",
     date: "Junio 2022 - Febrero 2023",
