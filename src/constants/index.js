@@ -163,7 +163,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Developer Fornted",
+    title: "Developer Front-end",
     company_name: "Freelans",
     icon: web,
     iconBg: "#383E56",
@@ -231,7 +231,7 @@ const experiences = [
     ],
   },
   {
-    title: "Developer Fornted",
+    title: "Developer Front-end",
     company_name: "LibelulaSof",
     icon: web,
     iconBg: "#383E56",
