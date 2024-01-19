@@ -27,9 +27,10 @@ import {
   vitejs,
   /*blender,
   dart,
-  go,
+  ,
   laravel,
   php,*/
+  go,
   vuejs,
 } from "../assets";
 
@@ -77,6 +78,7 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
+  
   {
     name: "JavaScript",
     icon: javascript,
@@ -85,7 +87,11 @@ const technologies = [
     name: "TypeScript",
     icon: typescript,
   },
- /* {
+  
+  
+ /* 
+ 
+ {
     name: "Go",
     icon: go,
   },
@@ -102,22 +108,28 @@ const technologies = [
     name: "blender",
     icon: blender,
   },
+  
+  {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
+  {
+    name: "git",
+    icon: git,
+  },
+ 
+  {
+    name: "Php",
+    icon: php,
+  },*/
   {
     name: "MongoDB",
     icon: mongodb,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-    {
     name: "Vue JS",
     icon: vuejs,
   },
-  {
-    name: "Php",
-    icon: php,
-  },*/
   {
     name: "React JS",
     icon: reactjs,
@@ -142,10 +154,7 @@ const technologies = [
     name: "Three JS",
     icon: threejs,
   },
-  {
-    name: "git",
-    icon: git,
-  },
+  
   {
     name: "docker",
     icon: docker,
